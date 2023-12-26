@@ -1,2 +1,2 @@
-# openwrt-16MB-TP-Link740-741
-Modify version of OpenWrt for TP-Link Wr740/741n routers with 16MB flash
+Openwrt-16MB-TP-Link WR740n/D version 4.x, TP-Link WR741N/D version 4.x, TP-Link WR841N/D version 9.x modificated with 16MB SPI Flash
+
